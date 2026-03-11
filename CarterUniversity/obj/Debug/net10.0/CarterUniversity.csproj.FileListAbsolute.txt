@@ -365,3 +365,4 @@
 /Users/dylancarter/Documents/GitHub/csci340lab9/CarterUniversity/obj/Debug/net10.0/CarterUniversity.pdb
 /Users/dylancarter/Documents/GitHub/csci340lab9/CarterUniversity/obj/Debug/net10.0/CarterUniversity.genruntimeconfig.cache
 /Users/dylancarter/Documents/GitHub/csci340lab9/CarterUniversity/obj/Debug/net10.0/ref/CarterUniversity.dll
+/Users/dylancarter/Documents/GitHub/csci340lab9/CarterUniversity/obj/Debug/net10.0/CarterUniversity.sourcelink.json

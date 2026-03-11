@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarterUniversity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c044eab338ecf2e858ac0bb8690bc604bf602308")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarterUniversity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarterUniversity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
